@@ -151,7 +151,7 @@ Tho-hue moved closer to give her counsel: In the past there was Tang-saⁿ and N
 > 陳三五娘 Tâng-saⁿ Ngõu-niê, another famous Min-nan folk story about two young lovers that was the basis for operas and songs, also known as 荔枝記 Nōi-ki-kì *Tale of the Lychee Branch* or 荔鏡記 Nōi-kiàn-kì *Tale of the Lychee and Mirror*.
 
 爾說言語有來情　赧今要學為不成　荔枝古人擲過了　何物擲乞繼春兄
-*lṳ́ sueh ngâng-gṳ́ ũ lâi-tsiâⁿ / náng kim iou o̍h ûi m̃-siâⁿ /* 
+*lṳ́ sueh ngâng-gṳ́ ũ lâi-tsiâⁿ / náng kim iou o̍h ûi m̃-tsiâⁿ /* 
 *nōi-ki kóu-zîng sek-kuè--liòu / hô-mue̍h sek kheh Kì-tshung-hiaⁿ*
 You say that you have exchanged words. But we cannot follow that example today. The ancients have already thrown the lychee branch – what have you to throw to Brother Ki-tshung?
 
@@ -168,19 +168,77 @@ Lak-nie thought silently to herself, coming up with a plan to see her lover. She
 （頁三上）
 
 親寫羅帕字一雙　姻緣二字在鎮中　包枝金釵做力擲　憑只金釵做媒人
+*tshing-siá lô-phè zai tse̍k-sang / ing-uêng nõ-zī tõ tìng-tang /*
+*pau ki kim-thoi tsò-la̍k sek / pêng tsí kim-thoi tsò buê-nâng*
+She personally wrote the two words “marriage destiny” in the middle of the silk handkerchief, wrapped it around the gold hairpin, and flung it vigorously, wishing that it would serve as their matchmaker.
 
 西樓擲過東樓中　六娘抽身入樓房　吾身情願伊為婿　全憑帕釵結成雙
+*sai-lâu sek-kuè tang-lâu tang / La̍k-niê thiu-sing zi̍p lâu pâng /* 
+*uá-sing tshêng-nguẽng i ûi sài / tshûeng-pêng phè-thoi kak sêng-sang*
+From the western tower she tossed it to the eastern tower, then Lak-nie retired to her room. “I wish that he would be my husband; all my hopes are on the handkerchief and hairpin to bring us together.”
 
 繼春在許樓中行　忽聽樓外響一聲　舉頭看見一包物　什起半喜又半京
+*Kì-tshung tõ hṳ́ lâu-tang kiâⁿ / huk-thiaⁿ lâu-gūa hiáng tse̍k-siaⁿ /* 
+*kṳ́-thâu thóiⁿ-kìⁿ tse̍k-pau-mue̍h / sĩm khí puàⁿ-hí iû puàⁿ-kiaⁿ*
+Ki-tshung was walking in the tower, when he was startled by a sound from outside. Looking up, he saw a bundle of something, which aroused both excitement and fear.
 
 > 京 phonetic loan character for 驚
 >
 > 玘 simplified character for 起
 
 慌忙舉手持起來　就折來看乜形骸　原來夭是帕共釵　此物乃是六娘個
+*huang-mâng kṳ́-tshiú thî khí-lâi / tsiũ tsih lâi-thóiⁿ mih hêng-hâi /* 
+*ngûeng-lâi iou-sĩ phè kā thoi / tshṳ́-mue̍h nãi-sĩ La̍k-niê kâi*
+Hurriedly he reached up to retrieve it, and unpacked it to see what was inside. It turned out to be a handkerchief and a hairpin, these must belong to Lak-nie.
 
 妝起羅帕無計施　只事又畏人知機　娘子這般有吾意　姻緣二字寫在邊
+*tsuang-khí lô-phè bô kòi-si / tsí-sṳ̄ iû ùi nâng tsai-ki /* 
+*niê-kiáⁿ tsé-puaⁿ ũ uá ì / ing-uêng nõ-zī siá tõ piⁿ*
+He hid away the handkerchief, not having a plan, he was afraid that someone else would find out about this. This lady is indeed forward, she even wrote the words “marriage destiny” inside!
 
 繼春煩惱面青黃　冬日讀書無本門　明日便做板桂客　不如月下探花郎
+*Kì-tshung hûeng-ló mīng tsheⁿ-n̂g / tang-zi̍k tha̍k-tsṳ bô búng-mûng /* 
+*mêng-zi̍k piẽng tsò páng-kùi kheh / puk-zû gue̍h-ẽ thàm hue-nṳ̂ng*
+Ki-tshung was worried until his complexion changed. TODO
 
-愈思愈想掛心頭　無人逓書到伊樓　心中憔悴發一計　著尋媒人理正通
+愈思愈想掛心頭　無人遞書到伊樓　心中憔悴發一計　着尋媒人理正通
+*zú-sṳ zú-siẽⁿ khuà sim-thâu / bô-nâng tîⁿ tsṳ kàu i lâu /*
+*sim-tang tsiou-tsũi huek tse̍k-gòi / tieh tshîm bûe-nâng lí-tsiáⁿ thong*
+Worries and pondering got stuck on his mind, while no one came to deliver books to his tower. Weary in his mind he hatched a plan, for which he needed to find a matchmaker.
+
+（頁三下）
+
+親身落樓路上移　心忙意急尋媒姨　去尋別人亦難事　惟有林婆可託伊
+*tshing-sing lo̍h-lâu lōu-tsiẽn î / sim-mâng ì-kip tshîm bûe-î /* 
+*khṳ̀ tshîm pa̍k-nâng iā lâng-sṳ̄ / zûi-ũ Lîm-phûa kó thoh i*
+He left the tower and went on the road, hurrying and impatient to find a matchmaker. It would have been difficult to find anybody, and he could only trust Lim-phua.
+
+行到林婆個家中　叫聲林婆說一言　吾有件事拜託爾　事成之日謝伊人
+*kiâⁿ-kàu Lîm-pûa kâi ke-tang / kiè-siaⁿ Lîm-pûa sueh tse̍k-ngâng /* 
+*uá ũ hṳ́-sṳ̄ pài-thoh lṳ́ / sṳ̄-tsiâⁿ tsṳ zi̍k sià i-nâng*
+Entering Lim-phua’s house, he said to her, “I have a matter here to entrust to you, and if it turns out successful I will owe you my thanks.”
+
+林婆便問郭秀才　秀才因乜只路來　乜風吹來到草捨　有何事情呾吾知
+*Lîm-pûa piẽng mūng Kueh siù-tsâi / siù-tsâi ing-mih tsí-lōu lâi /*
+*mih-hong tshue-lâi kàu tsháu-sià / ũ hô sṳ̄-tsiâⁿ tàⁿ uá tsai*
+Whereupon Lim-phua asked him, “why have you come this way, Scholar? What wind blows you to this remote place? Tell me what matter brings you here.”
+
+吾今實情呾爾聽　為着人情只路行　細聲共爾呾一句　姻緣靠爾做到成
+*uá kim si̍k-tshêng tàⁿ lṳ́ thiaⁿ / ûi-tieh nâng-tshêng tsí-lōu lâi /* 
+*sòi-siaⁿ kā lṳ́ tàⁿ tse̍k-kù / ing-uêng khàu-lṳ́ tsò-kàu tsiâⁿ*
+“What I tell you is the truth. I have come here because of a matter of the heart.” In a low voice he spoke to her, and entrusted his future marital bliss to her.
+
+秀才做事勿太忙　有緣千里會成雙　但是雖家小娘子　借問配人未配人
+*siù-tsâi tsò-sṳ̄ mài thài-mâng / ũ-ûeng tshoiⁿ-lí õi sêng-sang /* 
+*tãng-sĩ sui-ke sié-niê-kiáⁿ / tsieh-mūng phùe-nâng būe phùe-nâng*
+“Scholar, you are too hasty. If it is fated, you will be married even if you are a thousand miles apart. To which house belongs this young lady? Is she betrothed to anyone?”
+
+林婆聽吾說爾知　吾有一事只路來　西蘆有一小娘子　林婆爾皆知不知
+*Lîm-phûa thiaⁿ uá sueh lṳ́ tsai / uá ũ tse̍k-sṳ̄ tsí-lōu lâi /* 
+*Sai-lôu ũ tse̍k sié-niê-kiáⁿ / Lîm-phûa lṳ́ kai tsai-m̃-tsai*
+“Lim-phua, hear what I have to say. This matter has brought me here. In Sai-lou is a young lady, do you know of her, Lim-phua?”
+
+西園樓上一小娘　顏色飢骨如筆描　那因賞花相會見　無計共伊得落場
+*sai-hn̂g lâu-tsiẽⁿ tse̍k sié-niê / ngûeng-sek ki-kuk zû pik-biê /* 
+*na-ing siéⁿ-hhue sie huẽ-kìⁿ / bô-kòi kā i tik lo̍h-tiêⁿ*
+“In the western garden’s tower is a young lady, whose features and complexion are as fine as a painting. While admiring flowers we encountered each other, but I am at a loss as to how we can go further.”
