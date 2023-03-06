@@ -14,7 +14,7 @@ People live for decades whereas grass lives for only a spring; Heaven and Earth 
 > 乾 pronounced khiêng for “male”, name of hexagram; but kang or kuaⁿ for “dry”.
 
 且說吕浦蘇六娘　同細抱寄西蘆鄉　抱寄西蘆尚家養　教伊針指讀文章
-*tshiáⁿ su̍eh Lṳ̃-phóu Sou La̍k-niê / tâng-sòi phõ-kià Sai-lôu hieⁿ /* 
+*tshiáⁿ-su̍eh Lṳ̃-phóu Sou La̍k-niê / tâng-sòi phõ-kià Sai-lôu hieⁿ /* 
 *phõ-kià Sai-lôu Siãng-ke iáng / kà i tsam-tsí tha̍k bûng-tsieⁿ*
 This is the story of Sou Lak-nie from Lṳ-phou. As an infant she was brought to the village of Sai-lou, to be raised by the Siang family, who taught her how to sew and read.
 
@@ -151,7 +151,7 @@ Tho-hue moved closer to give her counsel: In the past there was Tang-saⁿ and N
 > 陳三五娘 Tâng-saⁿ Ngõu-niê, another famous Min-nan folk story about two young lovers that was the basis for operas and songs, also known as 荔枝記 Nōi-ki-kì *Tale of the Lychee Branch* or 荔鏡記 Nōi-kiàn-kì *Tale of the Lychee and Mirror*.
 
 爾說言語有來情　赧今要學為不成　荔枝古人擲過了　何物擲乞繼春兄
-*lṳ́ sueh ngâng-gṳ́ ũ lâi-tshêng / náng kim iou o̍h ûi m̃-sêng /* 
+*lṳ́ sueh ngâng-gṳ́ ũ lâi-tsiâⁿ / náng kim iou o̍h ûi m̃-siâⁿ /* 
 *nōi-ki kóu-zîng sek-kuè--liòu / hô-mue̍h sek kheh Kì-tshung-hiaⁿ*
 You say that you have exchanged words. But we cannot follow that example today. The ancients have already thrown the lychee branch – what have you to throw to Brother Ki-tshung?
 
